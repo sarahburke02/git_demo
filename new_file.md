@@ -6,3 +6,4 @@ Hi Timmy
 #Nice, um hello
 So what happens if I write something on here, save it, but then don't "git add" it, can It still be committed and pushed?
 Okay, so it will have no changes to commit because it wasn't added to be staged for commit.
+Yo
